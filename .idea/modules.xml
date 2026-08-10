@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSAwithJAVA.iml" filepath="$PROJECT_DIR$/DSAwithJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11PATTERNPrinting/Lecture11PATTERNPrinting.iml" filepath="$PROJECT_DIR$/Lecture11PATTERNPrinting/Lecture11PATTERNPrinting.iml" />
     </modules>
   </component>
 </project>
